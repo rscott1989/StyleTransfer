@@ -7,3 +7,5 @@ In order to run this program you will need to download the trained model located
 After that you run this program by navigating to the repo in your terminal and running `streamlit run importedmodels.py`
 
 A video of running the application is located at LinkToDemoVideo.txt
+
+Link to live ubuntu instance is http://18.117.87.0:8501
